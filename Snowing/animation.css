@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./berchtesgaden-alpine-watzmann-berchtesgaden-national-park-957002.jpeg);
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size:cover ;
+    background-position: center;
+    height: 100vh;
+    width: 100vh;
+}
